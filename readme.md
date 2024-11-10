@@ -4,7 +4,7 @@ Incomplete list of links to games mentioned in Marcus du Sautoy's [Around the Wo
 
 ## Middle East
 
-- [Blackgammon](https://cardgames.io/backgammon/)
+- [Backgammon](https://cardgames.io/backgammon/)
   - [tutorial](https://www.youtube.com/watch?v=VOQWJvsI4LE)
 - [Royal Game of Ur](https://royalur.net/)
 - [Senet](https://www.playonlinedicegames.com/senet)
